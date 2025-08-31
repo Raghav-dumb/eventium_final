@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.909222mm"
+   height="6.9518366mm"
+   viewBox="0 0 39.909222 6.9518366"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-238.7115,-69.833847)">
+    <g
+       id="g4"
+       transform="translate(143.53653,1.1422403e-5)">
+      <path
+         d="m 97.737405,75.727331 2.351905,1.058334 2.35191,-1.058334 h 2.41597 c 0.0549,-0.311148 0.0732,-0.603993 0.0732,-0.878535 0,-2.74542 -1.9767,-5.014967 -4.83193,-5.014967 -2.855242,0 -4.923458,2.269547 -4.923458,5.014967 0,0.299496 0.06926,0.877958 0.06926,0.877958 z m 2.324455,-3.770377 c 1.20798,0 2.10482,0.860232 2.37936,1.921794 l -2.35191,1.058334 -2.351905,-1.058334 c 0.274542,-1.134774 1.153076,-1.921794 2.324455,-1.921794 z"
+         id="path1"
+         style="font-size:18.3028px;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';letter-spacing:0.264583px;fill:#3f8ab6;fill-opacity:1;stroke-width:1.52523"
+         aria-label="eventium" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.57848px;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';text-align:start;letter-spacing:0.0950975px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.548204"
+         x="107.11128"
+         y="75.112656"
+         id="text4"><tspan
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cal Sans';-inkscape-font-specification:'Cal Sans';letter-spacing:0.0950975px;fill:#1a1a1a;fill-opacity:1;stroke-width:0.548204"
+           x="107.11128"
+           y="75.112656">eventium</tspan></text>
+    </g>
+  </g>
+</svg>
