@@ -1,3 +1,5 @@
+//preview the ReadMe in Code
+
 Eventium - Events Management Platform
 A modern, full-stack events management application built with Next.js, featuring venue search, user authentication, event creation, and interactive maps.
 
